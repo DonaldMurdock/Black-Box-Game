@@ -9,7 +9,7 @@ The rules can be found [here](https://en.wikipedia.org/wiki/Black_Box_(game))
 
 ## Screenshots
 
-![New Game](https://github.com/DonaldMurdock/Black-Box-Game/images/New-Game-Screenshot.png)
+![](images/New-Game-Screenshot.png?raw=true)
 
 
 
