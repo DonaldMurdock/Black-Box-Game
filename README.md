@@ -10,6 +10,8 @@ The rules can be found [here](https://en.wikipedia.org/wiki/Black_Box_(game))
 ## Screenshots
 
 ![](images/New-Game-Screenshot.png?raw=true)
+![](images/You-Win-Screenshot.png?raw=true)
+![](images/You-Lose-Screenshot.png?raw=true)
 
 
 
