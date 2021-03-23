@@ -66,20 +66,20 @@ class BlackBoxUI:
     def display_title(self):
         """Displays 'Black Box Game' Title
         """
-        title = pygame.image.load("Black Box Title.png")          #title is a Surface object
+        title = pygame.image.load("images/Black Box Title.png")          #title is a Surface object
         self._screen.blit(title, (15,10))
 
     def display_new_game_button(self):
         """Creates the new game button and returns the associated rectangle
         """
-        newGameButton = pygame.image.load("New Game Button.png")
+        newGameButton = pygame.image.load("images/New Game Button.png")
         self._screen.blit(newGameButton, (15,450))
         return newGameButton.get_rect(topleft=(15, 450))
 
     def display_quit_button(self):
         """Creates the quit button and returns the associated rectangle
         """
-        quitButton = pygame.image.load("Quit Button.png")
+        quitButton = pygame.image.load("images/Quit Button.png")
         self._screen.blit(quitButton, (205, 450))
         return quitButton.get_rect(topleft=(205, 450))
 
